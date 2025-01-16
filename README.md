@@ -1,6 +1,6 @@
 - Hi, I’m Ankit Singh
 - I’m working as a Software Engineer II at Parabole.ai
-- My interests lie in NLP & Causal AI, and would be happy to collaborate.
+- My interests lie in NLP & Computer Architecture, and would be happy to collaborate.
 - You can reach me at anktsngh4@gmail.com
 
 <!---
